@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{700ED9BD-1776-EC7E-B706-C8DD064A72C5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/playerlog.csv">
+    <Files>
+      <File FileName="Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" Line="39" Column="6" />
+      <File FileName="Assets/GrabGun.cs" Line="93" Column="10" />
+      <File FileName="Assets/Activator.cs" Line="182" Column="39" />
+      <File FileName="Assets/BlockData.cs" />
+      <File FileName="Assets/Chair.cs" />
+      <File FileName="Assets/Checkpoint.cs" Line="37" Column="36" />
+      <File FileName="Assets/Logger.cs" Line="44" Column="30" />
+      <File FileName="Assets/EnemyScript.cs" Line="31" Column="2" />
+      <File FileName="Assets/playerlog.csv" Line="1" Column="1" />
+      <File FileName="Assets/playerlog.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VRITS2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Utility" expanded="True" />
+              </Node>
+              <Node name="playerlog.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a5414fa5-d072-42bd-9053-2521a37ce081" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
